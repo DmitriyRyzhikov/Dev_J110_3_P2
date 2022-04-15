@@ -40,6 +40,10 @@ public class Main {
         fullList.addFromArrayFirst(animals); 
         addList.addFromArrayFirst(birds);        // два полноценных списка заполнены из массивов. Можно тестировать.
         
+        
+        fullList.printAll();
+        fullList.printAllBack();
+        
 
 
   
